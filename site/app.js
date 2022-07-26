@@ -10,7 +10,7 @@ let adjustY = 10;
 const mouse = {
     x: null,
     y: null,
-    radius: 70
+    radius: 20
 }
 
 window.addEventListener('mousemove', function(e){
